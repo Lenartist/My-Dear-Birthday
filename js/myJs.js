@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Cause I'm your sweet paste xD",
   text10: "I knew it, love you too ^^",
   text11:
-    "You are getting closer to your treasure, inbox me for the next step",
+    "You are getting closer to your treasure, inbox me for the next step.",
   text12: "Okie",
 };
 
